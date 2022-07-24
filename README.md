@@ -1,3 +1,5 @@
 # LoadBalancer
-`dokcer-comose build`
-`docker-compose up`
+```bash
+dokcer-comose build
+docker-compose up
+```
